@@ -1,11 +1,11 @@
 # CipherVault 
-[![My-banner][https://t4.ftcdn.net/jpg/05/60/19/51/360_F_560195127_P8brMsr0h9VeaJs5iPoxVIbSlE5QUAC8.jpg
+[![My-banner]https://t4.ftcdn.net/jpg/05/60/19/51/360_F_560195127_P8brMsr0h9VeaJs5iPoxVIbSlE5QUAC8.jpg
 
 <!--
 Welcome I am Sasquatch, 
 -->  
 
-<h3 align="center">Just another privacy-focused developer that enjoys playing with new things every day</h3>
+<h3 align="center"></h3>
 <div align="center">
 
 <!--
@@ -33,7 +33,7 @@ Active in here:
 </div>  
 
 <div align="center">  
-  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/1085349080592560169/1097954019248451635/ezgif.com-gif-maker_1.gif" height="25" />  
+  <img style="margin: 10px" src="" height="25" />  
 </div>
 
 ## ⚡️ A Few Quick Facts
@@ -49,7 +49,7 @@ Active in here:
 
 -  Im a 37 y/o living in the United States  
 - 🌱 I’m currently learning  
-- <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://tenor.com/view/linux-computer-os-ghosth-cyber-gif-25074749)" width="16">  I enjoy working on:<br>
+- <img src="" width="16">  things i am Passionate about:<br>
 &nbsp; ∘ &nbsp; 🛡️ Blueteam related Projects<br>
 &nbsp; ∘ &nbsp; 🔎 Threat Hunting<br>
 &nbsp; ∘ &nbsp; 🔧 DIY Lets Build a Pihole Cluster<br>
