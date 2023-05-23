@@ -12,17 +12,17 @@ Welcome I am Sasquatch,
 Active in here:
 -->  
 
-  <a href="https://discord.gg/flipper-xtreme" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
+  <a href="">
+    <img src="" style="margin-bottom: 5px;"/>
   </a>
-  <a href="https://steamcommunity.com/id/ClaraCrazy" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
+  <a href="" target="_blank">
+    <img src="" style="margin-bottom: 5px;"/>
   </a>
 
 <!--
-Mostly dead pages, lets add some space between those, shall we?
 
-Actually... lets just remove them completely.
+
+
 -->  
 
 <
@@ -43,8 +43,8 @@ Actually... lets just remove them completely.
 -->  
 
 <div>
-<img align="left" height="260vh" src="https://user-images.githubusercontent.com/55334727/232866686-aec8bc11-14a3-4499-9072-9ea96e6e3db6.gif">
-<img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+<img align="left" height="260vh" src="">
+<img align="left" height="260vh" src="">
 </div>
 
 -  Im a 37 y/o living in the United States  
