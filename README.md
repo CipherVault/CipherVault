@@ -94,14 +94,11 @@ Unveiling the Beast: My Laptop's Mighty Specs 💻
 
 -->  
 
-| Frontend | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> | Websites / Finding vulnerabilities (mainly Discord) | 
-| :---: | :---: | :---: |
-| Backend | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> <img style="margin: 10px" src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png" alt="MSSQL" height="50" /> | Working on websites, DIY Projects, [Synthia](https://meetsynthia.co)
-| DevOps | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />| Mostly personal interest |
+
 
 <br><br>
 
-## ❤️ Support me
+## 
 
 <!--
 Pwease support me >.<
@@ -110,11 +107,11 @@ Pwease support me >.<
 <div align="center">
 <p>I am a jack of all trades master of some"<a href="</p>
 
-<a href="https://paypal.me/RdX2020" target="_blank">
-  <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=Paypal&logoColor=white" alt=paypal style="margin-bottom: 5px;"/>
+<a href="" target="_blank">
+  <img src="" alt= style="margin-bottom: 5px;"/>
 </a>
-<a href="https://patreon.com/CynthiaLabs">
-  <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DCynthiaLabs%26type%3Dpatrons&style=for-the-badge" alt="Support me on Patreon" />
+<a href="">
+  <img src="=" alt="Support me on Patreon" />
 </a>
 </div>
   
