@@ -106,7 +106,7 @@ Now for the exciting part, my magnificent creature!
 List hell. Be my guest, I will explain absolutely nothing
 -->  
 
-| Physical tool's | <img style="margin: 10px" src="https://example.com/path/to/image.jpg" alt="JavaScript" height="50" /> |
+| Physical tool's | <img style="margin: 10px" src="https://example.com/path/to/image.jpg" alt="F-Zero" height="50" /> |
 | :---: | :---: |
 | tools and FrameWorks | <img style="margin: 10px" src="https://github.com/CipherVault/CipherVault/blob/main/flipper_Zero.jpg" alt="PHP" height="50" /> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Node.js" height="50" /> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png" alt="Python" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> <img style="margin: 10px" src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png" alt="MSSQL" height="50" /> |
 |  | building websites, DIY Projects, [Press Me](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
