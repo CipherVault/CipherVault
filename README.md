@@ -15,14 +15,13 @@ Active here:
   <a href="https://www.linkedin.com/in/marc-j-williams/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
-  <a href="https://steamcommunity.com/id/ClaraCrazy" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
+  <a href="https://www.linkedin.com/in/marc-j-williams/" target="_blank">
   </a>
 
 <!--
-Mostly dead pages, lets add some space between those, shall we?
 
-Actually... lets just remove them completely.
+
+
 -->  
 
 <!-- Be-gone!
