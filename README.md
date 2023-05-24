@@ -1,6 +1,19 @@
 # CipherVault 
-[![My-banner](https://commons.wikimedia.org/wiki/File:Sasquatch.jpg)]https://www.linkedin.com/in/marc-j-williams/)
+[![My-banner](https://user-images.githubusercontent.com/55334727/232865412-df3e184b-0b02-4e11-b319-57c595a3c01b.png)](https://cynthialabs.net)
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
 
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/USERNAME"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/USERNAME"
 <!--
 🔒 Unleashing Cybersecurity Alchemy: The Artistry of Safeguarding the Digital Realm 🔓 
 -->  
@@ -13,7 +26,7 @@ Active here:
 -->  
 
   <a href="https://www.linkedin.com/in/marc-j-williams/" target="_blank">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAB6CAMAAADNhOzSAAAAn1BMVEX///8AAAAzMzNaWlrc3Nzj7fQBd7Xr7/UvLy/V1dUyfbnp6emRsNEAc7OUuNfs7OxISEgAb7LS3+tycnIAZ69wnMiVlZXj4+PGxsYAY63z8/Pd6PGsrKwsfrXPz89OTk4SEhJpaWkAd69+fn67u7seHh47OzuhoaGLi4vu9/mdwNm31OKqxtyAsdRvrtNYncZIjsB4pMtglsr6//e7z+LiopStAAADIklEQVR4nO2Xi3aiMBCGE24VaUSECkaLXFS8rLW2ff9n2wngWivdtrs9Ys/5v2M1EKj5nMwkMAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwAVuvbt/RubzdtD+vr/Aq8twjPs27aHteX6YnMEpbIMusVYmReeBjSjuNDO0qH8qST+sK/3BrFNl3f8yxru3nwrBOCS0fESDh3qmbEOc9POqecL9+/NeR8bpBIIHp0tBOiDAW9KD7W6OIinT8iBYl0Tjp1zofv3+pwrikRITbsma1FVolUQpePyFEkXHA+Oen8nEggdiu2eqwEDrQZERZO4tPOT0YkE7vto5pTlCdl1WpbxLYpeW3Kb2PiLyN5EFH1IJZMxkU+jMpqIGd635+Fh4hY93d3e0s80dv9frt9uBftTi2X8t52FjwtqMG5fxBZ0oEu7VSd5LpNHnWzFvHEnu7uBmPK+IH6R+NuJloV0UjE7fN56cF5VInMVA1wpVadJCU25AdqkbtSZMCey9E/sx6tI1cgQoNdkgI5KBGDWouQ+Zz3bVbMqR44dIs2nOTJmQhj5lrtTcbdq4gI1yhTOrWIn5axURVNVYKc81SFaEbt9FxktfO69DG+vw6Rgg78WoRXo7bpIylfvD+hP3V9eC4y8CxvfT0i0SuRJCkT3v6TFnxBIrq63mkQCYRoUcR9IxK/EsmpkUTMUMlhlxiTcvKVO4EGEa/XnsiwUBiySWSoNmN9RyWE7zJZLCWL6ExuyNm8ScQ6ioS289G3f7NInQnNImWx9csi3E/pxDSUKnW0fnJeftlgVIvQyh5GdiQ/+vpvFJkfRToNIksmaQ9Me7CiXl2oFNvVmjL1eecsIllwEDFmUexeTiRM9ZpYpnrfcH2d1gtazvXphOXqjcXUmTr0tKIlnWmhxhYup9o0DyfTNCyfR57G5k03eDHNF6paW9PcVBExost5fAkZHn/h46ShvZYIAtooBsHIE1YmRkEgMlrZXeOCM+sb6FXPhmoXL6qHqla28f/P+LHbwL7tYf0DZhM/a1YBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPjJ/AaXlUCNt1wF2gAAAABJRU5ErkJggg==" style="margin-bottom: 5px;"/>
+    <img src="" style="margin-bottom: 5px;"/>
   </a>
   <a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BM3dbvZI7RzCgr5VmiBopFQ%3D%3D" target="_blank">
     <img src="" style="margin-bottom: 5px;"/>
