@@ -15,7 +15,7 @@ Active here:
   <a href="https://www.linkedin.com/in/marc-j-williams/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
-  <a href="https://www.linkedin.com/in/marc-j-williams/" target="_blank">
+  <a href="https://www.linkedin.com/in/marc-j-williams/" target="Linkedin">
   </a>
 
 <!--
@@ -24,7 +24,7 @@ Active here:
 
 -->  
 
-<!-- Be-gone!
+
   <img height="10" width="20" src="https://pngtree.com/freepng/green-graffiti-brush_5455378.html">
 
   <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthisbugslife.com%2F2020%2F04%2F09%2Fthe-amazing-3d-graffitti-of-vile%2F&psig=AOvVaw1WwnHTBs1eCGzlRGCjpbKP&ust=1684953926960000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjYotWMjP8CFQAAAAAdAAAAABAF" target="_blank">
@@ -113,7 +113,7 @@ List hell. Be my guest, I will explain absolutely nothing
 
 <br><br>
 
-## A litle About me
+## A little About me
 
 <!--
 
