@@ -56,7 +56,7 @@ Active here:
 
 - 🧔🏻 I'm a `37`year old form the United States 🇩🇪
 - 🌱 I’m currently learning `HTML`
-- <img src="https://giphy.com/gifs/adultswim-computer-typing-hacking-kbRb4eyCNC0aMz5x68" width="16">  I enjoy working on:<br>
+- <img src="https://giphy.com/gifs/adultswim-computer-typing-hacking-kbRb4eyCNC0aMz5x68" width="19">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 🛡️ Defensive Blue Team Projects<br>
 &nbsp; ∘ &nbsp; 🖼 Using Python to create cool thingys like websites<br>
 &nbsp; ∘ &nbsp; 🔧 Everything related to Rasberry pi<br>
