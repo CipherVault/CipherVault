@@ -1,5 +1,5 @@
 # CipherVault 
-[![My-banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dsasquatch%2Bforest&psig=AOvVaw0MWs_6zzbSRi7nk54VkqJO&ust=1684907909437000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDExJ3hiv8CFQAAAAAdAAAAABAF)
+[![My-banner]()
 
 <!--
 🔒 Unleashing Cybersecurity Alchemy: The Artistry of Safeguarding the Digital Realm 🔓 
@@ -15,14 +15,13 @@ Active here:
   <a href="https://www.linkedin.com/in/marc-j-williams/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
-  <a href="https://steamcommunity.com/id/ClaraCrazy" target="_blank">
+  <a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BM3dbvZI7RzCgr5VmiBopFQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
 
 <!--
-Mostly dead pages, lets add some space between those, shall we?
 
-Actually... lets just remove them completely.
+
 -->  
 
 <!-- Be-gone!
@@ -47,7 +46,7 @@ Actually... lets just remove them completely.
 ## ⚡️ A Few Quick Facts
 
 <!--
-This part was an absolute nightmare to figure out. Turns out that Githubs extended markdown is scuffed as hell. Left-embedded gifs break everything, so what you see below is the only way to fix it. I seem to be the only one to have even gotten that far.
+
 -->  
 
 <div>
@@ -55,7 +54,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
--  🧔🏻 I'm a `37`year old form the United States 🇩🇪
+- 🧔🏻 I'm a `37`year old form the United States 🇩🇪
 - 🌱 I’m currently learning `HTML`
 - <img src="https://giphy.com/gifs/adultswim-computer-typing-hacking-kbRb4eyCNC0aMz5x68" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 🛡️ Defensive Blue Team Projects<br>
@@ -161,3 +160,5 @@ Thats all folks
 <div align="center">
   <p>"If you want to keep a secret, you must also hide it from yourself.” ― George Orwell</p>
 </div>
+
+
