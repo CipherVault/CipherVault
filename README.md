@@ -1,6 +1,19 @@
 # CipherVault 
+[![My-banner](https://user-images.githubusercontent.com/55334727/232865412-df3e184b-0b02-4e11-b319-57c595a3c01b.png)](https://cynthialabs.net)
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
 
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/USERNAME"
 
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/USERNAME"
 <!--
 🔒 Unleashing Cybersecurity Alchemy: The Artistry of Safeguarding the Digital Realm 🔓 
 -->  
@@ -126,7 +139,7 @@ List hell. Be my guest, I will explain absolutely nothing
   <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/sasquatch-computer-internet-searching-ted-helms.jpg?style=for-the-badge&logo=Paypal&logoColor=green" alt=paypal style="margin-bottom: 5px;"/>
 </a>
 <a href="">
-  <img src="" alt="Support me on Patreon" />
+  
 </a>
 </div>
   
