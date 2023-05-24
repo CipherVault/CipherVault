@@ -113,7 +113,7 @@ List hell. Be my guest, I will explain absolutely nothing
 
 <br><br>
 
-## A litle About me
+## A little About me
 
 <!--
 
@@ -140,7 +140,7 @@ List hell. Be my guest, I will explain absolutely nothing
 
 <p align="center">
   <img src="https://cdn.shopify.com/s/files/1/1565/0019/products/sgvbicycles-bikes-raptor-track-bike-with-drop-bars-28685001916602@2x.jpg?v=1623205521" width="32%">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fmelt-pizza%2F24&psig=AOvVaw01zgUEj66wv0UybB9LI_-I&ust=1684978120584000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCX9OfmjP8CFQAAAAAdAAAAABAD" width="35%">
+  <img src="" width="35%">
   <img src="https://cdn.dribbble.com/users/995597/screenshots/9247087/merlin-icon-cmyk.png" width="25%">
 </p>
 
