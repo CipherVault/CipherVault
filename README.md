@@ -1,5 +1,5 @@
 # CipherVault 
-[![My-banner](http://s297.photobucket.com/user/timbenj/media/Threadbombs/HackerDennis.gif.html)](https://cynthialabs.net)
+[![My-banner](http://s297.photobucket.com/user/timbenj/media/Threadbombs/HackerDennis.gif.html)
 
 <!--
 🔒 Unleashing Cybersecurity Alchemy: The Artistry of Safeguarding the Digital Realm 🔓 
