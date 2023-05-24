@@ -1,6 +1,5 @@
 # CipherVault 
 [![My-banner](https://commons.wikimedia.org/wiki/File:Sasquatch.jpg)](https://www.linkedin.com/in/marc-j-williams/)
-
 <!--
 🔒 Unleashing Cybersecurity Alchemy: The Artistry of Safeguarding the Digital Realm 🔓 
 -->  
