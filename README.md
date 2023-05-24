@@ -121,7 +121,7 @@ List hell. Be my guest, I will explain absolutely nothing
 -->  
 
 <div align="center">
-<p>From ex-semi professional hockey player to cyber security wizard, the tenacious Sasquatch, standing at 5' 19", combines unmatched strength, tireless work ethic, and perpetual growth to protect and conquer the digital realm.</p>
+<p>From ex-semi professional hockey player to cyber security wizard, the tenacious Sasquatch, standing at 5' 19", combines unmatched strength, tireless work ethic, and perpetual growth to protect and defend the digital realm.</p>
 
 <a href="https://ctl.s6img.com/society6/img/TOZe0HnDemaiwFr_3vCkhGzAp6o/w_700/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/68b22df71e6e4ff8aa35e151aac639ed/~~/cybersquatch-prints.jpg" target="_blank">
   <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/sasquatch-computer-internet-searching-ted-helms.jpg?style=for-the-badge&logo=Paypal&logoColor=green" alt=paypal style="margin-bottom: 5px;"/>
