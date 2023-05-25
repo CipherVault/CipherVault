@@ -135,7 +135,7 @@ List hell. Be my guest, I will explain absolutely nothing
   
 <br><br>
 
-## 📊 Other fun things i am into 
+## 📊 Other Items I find enjoyable 
 
 <!--
 
@@ -158,7 +158,7 @@ Thats all folks
 -->  
 
 <div align="center">  
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Guy_Fawkes_Mask_Black_and_White.jpg?20140424170145" height="25" />  
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Guy_Fawkes_Mask_Black_and_White.jpg?20140424170145" height="40" />  
 </div>
 <div align="center">
   <p>"If you want to keep a secret, you must also hide it from yourself.” ― George Orwell</p>
