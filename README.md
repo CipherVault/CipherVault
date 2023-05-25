@@ -144,7 +144,7 @@ List hell. Be my guest, I will explain absolutely nothing
 <p align="center">
   <img src="https://cdn.shopify.com/s/files/1/1565/0019/products/sgvbicycles-bikes-raptor-track-bike-with-drop-bars-28685001916602@2x.jpg?v=1623205521" width="32%">
   <img src="" width="35%">
-  <img src="https://cdn.dribbble.com/users/995597/screenshots/9247087/merlin-icon-cmyk.png" width="25%">
+  <img src="" width="25%">
 </p>
 
 <p align="center">
@@ -158,7 +158,7 @@ Thats all folks
 -->  
 
 <div align="center">  
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Guy_Fawkes_Mask_Black_and_White.jpg?20140424170145" height="40" />  
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Guy_Fawkes_Mask_Black_and_White.jpg?20140424170145" height="140" />  
 </div>
 <div align="center">
   <p>"If you want to keep a secret, you must also hide it from yourself.” ― George Orwell</p>
