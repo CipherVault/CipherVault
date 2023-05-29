@@ -1,5 +1,5 @@
 # CipherVault 
-[![My-banner]<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sasquatch.jpg/640px-Sasquatch.jpg" width="400"></center>
+[![My-banner]<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sasquatch.jpg/640px-Sasquatch.jpg" width="1200"></center>
 
 <!--
 🔒 Unleashing Cybersecurity Alchemy: The Artistry of Safeguarding the Digital Realm 🔓 
