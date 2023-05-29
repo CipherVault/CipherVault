@@ -1,5 +1,5 @@
 # CipherVault 
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sasquatch.jpg/640px-Sasquatch.jpg" width="1200"></center>
+[![My-banner](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sasquatch.jpg/640px-Sasquatch.jpg)
 
 <!--
 🔒 Unleashing Cybersecurity Alchemy: The Artistry of Safeguarding the Digital Realm 🔓 
@@ -13,11 +13,9 @@ Active here:
 -->  
 
  <a href="https://www.linkedin.com/in/marc-j-williams/" target="_blank">
-  <img src="" style="margin-bottom: 5px;" />
+  <img src="" style="margin-bottom: 5px;"/>
 </a>
-<a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BM3dbvZI7RzCgr5VmiBopFQ%3D%3D" target="_blank">
-  <img src="" style="margin-bottom: 5px;" />
-</a>
+
 
 <!--
 
