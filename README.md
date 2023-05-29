@@ -12,12 +12,12 @@
 Active here:
 -->  
 
-  <a href="https://www.linkedin.com/in/marc-j-williams/" target="_blank">
-    <img src="" style="margin-bottom: 5px;"/>
-  </a>
-  <a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BM3dbvZI7RzCgr5VmiBopFQ%3D%3D" target="_blank">
-    <img src="" style="margin-bottom: 5px;"/>
-  </a>
+ <a href="https://www.linkedin.com/in/marc-j-williams/" target="_blank">
+  <img src="image1.jpg" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BM3dbvZI7RzCgr5VmiBopFQ%3D%3D" target="_blank">
+  <img src="image2.jpg" style="margin-bottom: 5px;" />
+</a>
 
 <!--
 
