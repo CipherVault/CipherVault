@@ -17,14 +17,7 @@ Active here:
   <img src="" style="margin-bottom: 5px;"/>
 </a>
 
-
-<!--
-
-
-
--->  
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hack.png/640px-Hack.png" height="0" width="0" alt="The Pirates Life For Me">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hack.png/640px-Hack.png" height="400" width="400" alt="The Pirates Life For Me">
 
 
   <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthisbugslife.com%2F2020%2F04%2F09%2Fthe-amazing-3d-graffitti-of-vile%2F&psig=AOvVaw1WwnHTBs1eCGzlRGCjpbKP&ust=1684953926960000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjYotWMjP8CFQAAAAAdAAAAABAF" target="_blank">
