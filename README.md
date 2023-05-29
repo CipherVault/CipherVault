@@ -20,12 +20,16 @@ Active here:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hack.png/640px-Hack.png" height="200" width="250" alt="The Pirates Life For Me">
 
 
-  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthisbugslife.com%2F2020%2F04%2F09%2Fthe-amazing-3d-graffitti-of-vile%2F&psig=AOvVaw1WwnHTBs1eCGzlRGCjpbKP&ust=1684953926960000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjYotWMjP8CFQAAAAAdAAAAABAF" target="_blank">
-    <img src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fthehackernews.com%2Fnew-images%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgqz7NT-uvyS__e1rDFne2v2nT599SoAvuM9jNolHGfUdQ9frhMU0GDJ6fhtxTZDNQ0GQV79K3qCuXvdkktVB5aHtVnaw4awnl7zamClIiw_G5pWCkBFPWRRLp5bkQjIbOt_yL3IfP14qcKxWkCnGvPIULga7dmW4lmg-NBeiuicUJIdPZ8YQI87ujY%2Fw0%2Fhacking.jpg&tbnid=X7m_gxfUTEG6rM&vet=12ahUKEwiql_OJjYz_AhXshu4BHU04CvEQMygfegUIARDqAQ..i&imgrefurl=https%3A%2F%2Fthehackernews.com%2F2022%2F08%2Fchinese-hackers-using-new-manjusaka.html&docid=GuAkyZ8nIjqCNM&w=728&h=380&q=hacking&ved=2ahUKEwiql_OJjYz_AhXshu4BHU04CvEQMygfegUIARDqAQ=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwhatismyipaddress.com%2Fwp-content%2Fuploads%2Fyouve-been-hacked-image.jpg&tbnid=f3_v1QzmUUHMDM&vet=12ahUKEwiql_OJjYz_AhXshu4BHU04CvEQMyhBegQIARBM..i&imgrefurl=https%3A%2F%2Fwhatismyipaddress.com%2Fhacking-targets&docid=1derXPQeZB7viM&w=1254&h=837&q=hacking&ved=2ahUKEwiql_OJjYz_AhXshu4BHU04CvEQMyhBegQIARBM" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
-  </a>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hack.png/640px-Hack.png" alt="The Pirates Life For Me">
+
+<a href="https://thisbugslife.com/2020/04/09/the-amazing-3d-graffitti-of-vile/" target="_blank">
+  <img src="https://example.com/path/to/image.jpg" alt="Description of the image">
+</a>
+
+<a href="https://whatismyipaddress.com/hacking-targets" target="_blank">
+  <img src="https://example.com/path/to/image.jpg" alt="Description of the image">
+</a>
+
 -->  
 
 </div>
