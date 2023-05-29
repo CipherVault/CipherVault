@@ -1,9 +1,12 @@
 # CipherVault 
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sasquatch.jpg/640px-Sasquatch.jpg" width="1200"></center>
 
-<--
-🔒 Unleashing Cybersecurity Alchemy: The Artistry of Safeguarding the Digital Realm 🔓 
--->  
+<div style="text-align: center;">
+  <p>
+    <strong>🔒 Unleashing Cybersecurity Alchemy: The Artistry of Safeguarding the Digital Realm 🔓</strong>
+  </p>
+</div>
+
 
 <h3 align="center">A Passionate Journey into the Cyberverse</h3>
 <div align="center"></div>
