@@ -38,9 +38,10 @@ Active here:
   <br>
 </div>  
 
-<div align="center">  
-  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/1085349080592560169/1097954019248451635/ezgif.com-gif-maker_1.gif" height="25" />  
+<div>
+  <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
+
 
 ## ⚡️ Fun Facts
 
