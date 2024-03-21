@@ -7,7 +7,7 @@ With patience and empathy, I am dedicated to providing tailored support and prot
 of technology without falling victim to its risks. Whether it's guiding them through safe online practices
 or implementing personalized security measures, I am committed to empowering older adults to navigate the digital world securely and with peace of mind this is my journey.
 <p align="left">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCwkhTYq0tDQqOrE5-FMGQ8A">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
