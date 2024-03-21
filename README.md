@@ -11,7 +11,7 @@ or implementing personalized security measures, I am committed to empowering old
 ## ⚙️ Some Tools and Tech I use
 
 <!--
-List hell. Be my guest, I will explain absolutely nothing
+Empowering all in cybersecurity
 -->  
 
 | Frontend | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> | Websites / Finding vulnerabilities | 
