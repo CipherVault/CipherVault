@@ -7,6 +7,7 @@ With patience and empathy, I am dedicated to providing tailored support and prot
 of technology without falling victim to its risks. Whether it's guiding them through safe online practices
 or implementing personalized security measures, I am committed to empowering older adults to navigate the digital world securely and with peace of mind this is my journey.
 
+### 🧰 Languages and Tools
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
