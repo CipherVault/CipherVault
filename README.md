@@ -18,7 +18,7 @@ or implementing personalized security measures, I am committed to empowering old
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
----
+
 - 🤖 I am currently working on
 - 👽 I am currently learning 
 - 👾 Im looking to collaborate on
