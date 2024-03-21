@@ -1,6 +1,6 @@
 # 🚴 CipherVault
 
-**'Cyber Artisan (Cybersecurity specialist/Digital protector)'**
+**Cyber Artisan (Cybersecurity specialist/Digital protector)**
 
 As a cybersecurity profesional, I recognize the unique vulnerabilities faced by the elderly in today's digital age. 
 With patience and empathy, I am dedicated to providing tailored support and protection to this demographic, ensuring they can enjoy the benefits 
