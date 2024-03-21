@@ -8,8 +8,6 @@ of technology without falling victim to its risks. Whether it's guiding them thr
 or implementing personalized security measures, I am committed to empowering older adults to navigate the digital world securely and with peace of mind this is my journey.
 
 ### 🧰 Languages and Tools
-## ⚙️ Some Tools and Tech I use
-
 <!--
 Empowering all in cybersecurity
 -->  
