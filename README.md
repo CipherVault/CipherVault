@@ -2,10 +2,10 @@
 
 **Cyber Artisan (Cybersecurity specialist/Digital protector)**
 
-As a cybersecurity profesional, I recognize the unique vulnerabilities faced by the elderly in today's digital age. 
+ I recognize the unique vulnerabilities faced by the elderly in today's digital age. 
 With patience and empathy, I am dedicated to providing tailored support and protection to this demographic, ensuring they can enjoy the benefits 
 of technology without falling victim to its risks. Whether it's guiding them through safe online practices
-or implementing personalized security measures, I am committed to empowering older adults to navigate the digital world securely and with peace of mind this is my journey.
+or implementing personalized security measures, I am committed to empowering older adults to navigate the digital world securely and with peace of mind.
 
 ### 🧰 Languages and Tools
 <!--
