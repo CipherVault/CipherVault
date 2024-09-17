@@ -20,7 +20,7 @@ Empowering all in cybersecurity
 <br><br>
 
 - 🤖 I am currently working on improving My Osint Capabilities
-- 👽 I am currently Studying for the Security + Exam
+- 👽 I am currently Studying for the A+, Network+, and Security+ Exams
 - 👾 Im looking to collaborate on Anything!
 
   Thanks for visiting!
