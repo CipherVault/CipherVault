@@ -17,12 +17,13 @@ Empowering all in cybersecurity
 | Frontend | <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> | Websites / Finding vulnerabilities 
 | :---: | :---: | :---: | 
 | Backend | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> | 
-| DevOps |                                                 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" height="50" />
+| DevOps |  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" height="50" />
 
 <br><br>
 
 - 🤖 I am currently working on improving My Osint Capabilities
-- 👽 I am currently Learning everything i can
+- 👽 I am currently working on a write up for malicous PDF's!
 - 👾 Im looking to collaborate on Anything!
+- ✉️ Reach me at williamsmarcj@gmail.com
 
   Thanks for visiting!
