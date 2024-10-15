@@ -1,5 +1,7 @@
 # 🚴 CipherVault
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 **Friendly neighborhood computer guy at your service**
 
  I recognize the unique vulnerabilities faced by the elderly in today's digital age. 
