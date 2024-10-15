@@ -1,6 +1,6 @@
 # 🚴 CipherVault
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+For+Stopping+By;Have+a+Look+Around)](https://git.io/typing-svg)
 
 **Friendly neighborhood computer guy at your service**
 
