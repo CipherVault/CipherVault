@@ -26,4 +26,4 @@ Empowering all in cybersecurity
 - 👾 Im looking to collaborate on Anything!
 - ✉️ Reach me at williamsmarcj@gmail.com
 
-  Thanks for visiting!
+Thanks for visiting!
