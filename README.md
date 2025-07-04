@@ -6,8 +6,10 @@
 
 Welcome to my GitHub repository—a space where I showcase projects that reflect my commitment to thoughtful, user-centered solutions in tech. 
 My work spans a range of interests, 
-including digital security, accessibility, and practical tools designed to make technology 
-more intuitive and safe for everyone. I also take a special interest in supporting vulnerable groups, 
+including digital security, accessibility, 
+and practical tools designed to make technology 
+more intuitive and safe for everyone. 
+I also take a special interest in supporting vulnerable groups, 
 such as the elderly, by incorporating subtle safeguards and clear guidance into my work. Stay tuned for 
 updates as I continue building and sharing projects focused on meaningful impact.
 
@@ -23,9 +25,9 @@ Empowering all in cybersecurity
 
 <br><br>
 
-- 🤖 I am currently working on improving My Osint Capabilities
+- 🤖 I am currently working on updating github with current projects
 - 👽 I am currently working on a write up for malicous PDF's!
 - 👾 Im looking to collaborate on Anything!
-- ✉️ Reach me at williamsmarcj@gmail.com
+- ✉️ Reach me at shieldmaster1215@gmail.com
 
 Thanks for visiting!
