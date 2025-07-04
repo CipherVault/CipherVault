@@ -4,7 +4,12 @@
 
 **Friendly neighborhood computer guy at your service**
 
-Welcome to my GitHub repository—a space where I showcase projects that reflect my commitment to thoughtful, user-centered solutions in tech. My work spans a range of interests, including digital security, accessibility, and practical tools designed to make technology more intuitive and safe for everyone. I also take a special interest in supporting vulnerable groups, such as the elderly, by incorporating subtle safeguards and clear guidance into my work. Stay tuned for updates as I continue building and sharing projects focused on meaningful impact.
+Welcome to my GitHub repository—a space where I showcase projects that reflect my commitment to thoughtful, user-centered solutions in tech. 
+My work spans a range of interests, 
+including digital security, accessibility, and practical tools designed to make technology 
+more intuitive and safe for everyone. I also take a special interest in supporting vulnerable groups, 
+such as the elderly, by incorporating subtle safeguards and clear guidance into my work. Stay tuned for 
+updates as I continue building and sharing projects focused on meaningful impact.
 
 ### 🧰 Languages and Tools
 <!--
