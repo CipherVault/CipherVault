@@ -4,10 +4,7 @@
 
 **Friendly neighborhood computer guy at your service**
 
-I recognize the unique vulnerabilities faced by the elderly in today's digital age. 
-With patience and empathy, I am dedicated to providing tailored support and protection to this demographic, ensuring they can enjoy the benefits 
-of technology without falling victim to its risks. Whether it's guiding them through safe online practices
-or implementing personalized security measures, I am committed to empowering older adults to navigate the digital world securely and with peace of mind.
+Welcome to my GitHub repository—a space where I showcase projects that reflect my commitment to thoughtful, user-centered solutions in tech. My work spans a range of interests, including digital security, accessibility, and practical tools designed to make technology more intuitive and safe for everyone. I also take a special interest in supporting vulnerable groups, such as the elderly, by incorporating subtle safeguards and clear guidance into my work. Stay tuned for updates as I continue building and sharing projects focused on meaningful impact.
 
 ### 🧰 Languages and Tools
 <!--
