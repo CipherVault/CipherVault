@@ -18,7 +18,6 @@ updates as I continue building and sharing projects focused on meaningful impact
 Empowering all in cybersecurity
 -->  
 
-
 | Frontend | <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /> | Websites / Finding vulnerabilities 
 | :---: | :---: | :---: | 
 | Backend | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /> | I enjoy building things |
